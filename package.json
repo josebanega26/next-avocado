@@ -1,0 +1,26 @@
+{
+  "name": "next-avocado",
+  "version": "1.0.0",
+  "description": "next-avocado",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebanega26/next-avocado.git"
+  },
+  "author": "Jose Banega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josebanega26/next-avocado/issues"
+  },
+  "homepage": "https://github.com/josebanega26/next-avocado#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
